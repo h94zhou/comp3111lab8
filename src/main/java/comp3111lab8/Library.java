@@ -5,6 +5,7 @@ package comp3111lab8;
 
 public class Library {
     public static void main(String arg[]) {
+	// Love yankees
 	System.out.println("Go Yankees");
     }
     public boolean someLibraryMethod() {
